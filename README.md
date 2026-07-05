@@ -24,8 +24,6 @@
 
 ---
 
-### 🏴‍☠️ About Me
-
 ```java
 public class Indy implements Captain, Backend {
 
