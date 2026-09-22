@@ -25,7 +25,7 @@
 ---
 
 ```java
-public class Indy implements Captain, Backend {
+public class Makarand implements Captain, Backend {
 
     private String title     = "Backend cartographer mapping systems beyond the horizon";
     private String[] crew    = {"Java", "Spring Boot", "SQL", "Open Source"};
